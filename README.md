@@ -1,13 +1,13 @@
 # Printf unit test
 
-Collection of unit tests for the project *ft_printf* at [42](https://www.42.fr/).
+Collection of unit tests for the project *ft_printf* at [1337](https://www.1337.ma/).
 All the tests are stored in a single *tests.txt* file and automatically created by a script, so you can add your own tests to the existing ones.
 
 
 ## Getting started
 
 ```
-git clone https://github.com/jkgithubrep/42_printf_unit_tests.git
+git clone https://github.com/mobouzar/printftests
 ```
 
 ## Usage
@@ -76,9 +76,9 @@ The `clean` keyword will save the folder containing the tests in a backup folder
 
 ## Issues
 
-If you encounter any issue, you can contact me on slack (jkettani) or by email: jkettani@student.42.fr
+If you encounter any issue, you can contact me on slack (jkettani) or by email: mobouzar@student.1337.ma
 
 
 ## Author
 
-by **jkettani**
+by **mobouzar**
